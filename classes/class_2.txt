@@ -1,0 +1,14 @@
+Class:
+Knife
+
+Attributes:
+handleMaterial ["sting", "string"]
+bladeMaterial ["string", "string"]
+bladeLength (integer)
+knifeSharp (boolean)
+
+Methods:
+changeHandleMaterial (changes array string data for handleMaterial)
+changeBladeMaterial (changes array string data for bladeMaterial)
+makeLonger (increases bladeLength)
+sharpenBlade (changes boolean for knifeSharp from FALSE to TRU)
