@@ -13,13 +13,3 @@ changeMaterial (changes array string data for material type)
 lowerTable (lessens tableHeight)
 wipeTable (changes boolean value of tableClean to TRUE)
 tableArea(tableWidth * tableLength)
-
-
-
-
-
-Brainstorm one class that might exist in a restaurant and put this at the top of the file.
-List at least four attributes for that class. In parentheses, list the data type for that attribute (string, boolean, integer, float, hash/object, datetime).
-List at least four methods for that class. In parentheses, explain what the method does, including the names of the attributes that it uses or modifies.
-Save your file.
-Add and commit your changes for this class with the message "Update class 1 with attributes and methods"
