@@ -1,0 +1,15 @@
+Object:
+4 Top Table
+
+Attributes:
+material: ["butcher", "block", "maple", "steel"]
+tableHeight: 27
+tableClean: FALSE
+tableWidth: 36
+tableLength: 36
+
+Methods:
+changeMaterial: material = ["beetle", "kill", "pine", "wrought", "iron"]
+lowerTable: tableHeight = 24
+wipeTable: tableClean = TRUE
+tableArea = 1296 = (tableWidth * tableLength)
