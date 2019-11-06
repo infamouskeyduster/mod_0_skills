@@ -1,0 +1,73 @@
+How to become a student at Turing
+
+1 Decide if coding is something that you enjoy
+  1.1 Go to Turing.io website
+    1.1.1 Locate a local event called "Try Coding Weekend"
+      1.1.1.1 Sign up for Try Coding on a day that works for your
+  1.2 Attend Try Coding event at Turing
+    1.2.1 On day of event drive yourself to specified location
+      1.2.1.1 Exit your car
+        1.2.1.1.1 Grab computer and any necessary items
+          1.2.1.1.1.1 Lock your vehicle
+    1.2.2 Enter building that try coding weekend is being held in
+    1.2.3 Locate classroom where class will be held
+      1.2.3.1 Open door to classroom
+        1.2.3.1.1 Enter classroom
+    1.2.4 Find a chair by a desk
+      1.2.4.1 Put belongings on desk
+        1.2.4.1.1 Open bag
+          1.2.4.1.1.1 Remove computer and other necessary materials from bag
+          1.2.4.1.1.2 Place computer and other materials on desk
+    1.2.5 Sit in chair and wait for lesson to begin
+    1.2.6 Participate in lesson
+      1.2.6.1 Ask questions when the arise
+      1.2.6.2 Stay engaged throughout lesson
+      1.2.6.3 Take diligent notes throughout lesson
+        1.2.6.3.1 Revert back to notes
+          1.2.6.3.1.1 Use notes as needed to replicate what you are learning
+    1.2.7 At conclusion of lesson instruction will be provided to apply at Turing
+  1.3 Make a decision about wether coding is something you want to explore
+      If yes, coding is something that you want to explore
+      1.3.1 Begin preparation for applying to Turing (step 2)
+      If no, coding is not something that you want to explore
+      1.3.1 Know that you tried, and your journey ends here!
+        1.3.1.1 Explore other career paths / options
+2 Begin preparation for applying to Turing
+  2.1 Get computer
+    2.1.1 Open computer
+      2.1.1.1 Navigate web browser to VarsityTutors.com
+      2.1.1.2 Begin studying by taking LSAT logic quizzes
+  2.2 Take multiple logic quizzes a day
+    2.2.1 progress in your abilities to answer logic questions
+  2.3 Take a final logic quiz
+    If your score is at or above 90%
+    2.3.1 Proceed to Applying at Turing (step 3)
+    If your scores are below 90%
+    2.3.1 Keep taking practice exams until scores reach 90%
+3 Apply to Turing
+  3.1 Get computer
+    3.1.1 Open computer
+      3.1.1.1 Navigate to Turing.io
+        3.1.1.1.1 Navigate to "Apply" button
+          3.1.1.1.1.1 Hit "Apply Button"
+  3.2 Begin application to Turing
+    3.2.1 submit a resume or answer in the fields provided about your work history
+    3.2.2 begin Logic Quiz on application
+      3.2.2.1 answer all questions to the best of your ability
+      3.2.2.2 submit the answers to each question
+    3.2.3 Submit application
+  3.3 Wait for results of application
+    If results are positive
+    3.3.1 Set up an in-person interview at Turing
+    If results are negative
+    3.3.1 Reapply to Turing after 45 days
+4 Interview at Turing
+  4.1 attend interview at Turing
+  4.2 During interview answer questions when asked
+  4.3 Demonstrate logic abilities by taking a logic quiz in person
+5 Wait for Application and interview results
+  5.1 Receive results
+    if results are positive
+    5.1.1 You are accepted to Turing! Congrats!
+    if results are negative
+    5.1.1 reapply to Turing after 45 days
