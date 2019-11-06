@@ -1,0 +1,14 @@
+Object:
+Santoku Kitchen Knife
+
+Attributes:
+handleMaterial: ["stained", "bone", "olive", "wood"]
+bladeMaterial: ["monolithic", "M390"]
+bladeLength: 7
+knifeSharp: FALSE
+
+Methods:
+changeHandleMaterial: handleMaterial = ["G10", "Brass", "Pins"]
+changeBladeMaterial: bladeMaterial = ["stainless", "steel", "san-mai", "ZDP189", "Core"]
+makeLonger: bladeLength = 8
+sharpenBlade: knifeSharp = TRUE
